@@ -9,4 +9,6 @@ indian
 thai 
 italian
 american
+veg
+nonveg
 
