@@ -2,3 +2,11 @@ print
 letter
 postcard
 greeting card
+
+
+food 
+indian 
+thai 
+italian
+american
+
