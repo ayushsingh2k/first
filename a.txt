@@ -4,6 +4,11 @@ postcard
 greeting card
 
 
-food
+food 
+indian 
+thai 
+italian
+american
 veg
 nonveg
+
