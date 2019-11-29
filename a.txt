@@ -2,3 +2,7 @@ print
 letter
 postcard
 greeting card
+
+food
+veg
+nonveg
